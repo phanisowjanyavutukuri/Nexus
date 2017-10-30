@@ -1,0 +1,6 @@
+---
+applications:
+- name: maven-app
+  memory: 512M
+  host: localhost
+  path: target/maven-app-1.1-SNAPSHOT.jar
