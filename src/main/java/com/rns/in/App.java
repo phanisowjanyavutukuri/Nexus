@@ -6,7 +6,7 @@ package com.rns.in;
  */
 public class App 
 {
-    public static void main( String[] arg )
+    public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
