@@ -18,9 +18,7 @@
   <name>Checkstyle Plug-in</name>
   <version>3.50-SNAPSHOT</version>
   <url>http://wiki.jenkins-ci.org/x/GYCGAQ</url>
-  <description>This plug-in generates the trend report for
-    Checkstyle, an open source static code analysis program.
-  </description>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
