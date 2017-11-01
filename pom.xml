@@ -4,7 +4,7 @@
 
   <groupId>com.rns.in</groupId>
   <artifactId>maven-app</artifactId>
-  <version>1.0-${buildNumber}</version>
+  <version>1.0-SNAPSHOT-${buildNumber}</version>
   <packaging>jar</packaging>
 
   <name>maven-app</name>
