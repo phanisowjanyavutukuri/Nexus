@@ -56,6 +56,18 @@
         </dependency>
 
     </dependencies>
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>f8b5a0fa6d2e</name>
+        <url>http://13.115.67.203:8081/artifactory/Ram_mvn_Dev</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>f8b5a0fa6d2e</name>
+        <url>http://13.115.67.203:8081/artifactory/Ram_mvn_Dev</url>
+    </snapshotRepository>
+</distributionManagement>
     <build>
         <finalName>My Automated tests</finalName>
         <plugins>
