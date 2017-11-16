@@ -63,12 +63,12 @@
     </dependencies>
     <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>ip-10-10-3-56-releases</id>
         <name>ip-10-10-3-56-releases</name>
         <url>http://18.231.1.16:8081/artifactory/maven_Staging</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>ip-10-10-3-56-snapshots</id>
         <name>ip-10-10-3-56-snapshots</name>
         <url>http://18.231.1.16:8081/artifactory/maven_Dev</url>
     </snapshotRepository>
